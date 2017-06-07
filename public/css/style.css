@@ -1,0 +1,30 @@
+body {
+    background-color: #e8e8e8;
+}
+
+
+
+.ajout {}
+
+#fond{
+      background: url("img/cars.jpg")no-repeat center 0px;
+      background-attachment: fixed;
+      background-size: cover;
+}
+.fond_mod{
+      background: url("img/cars.jpg")no-repeat center 0px;
+      background-attachment: fixed;
+      background-size: cover;
+}
+.theme{
+  background: #fff9;
+}
+#tab{
+  margin-left: 25%;
+  margin-top: 15%;
+  background-color: #ffffffb3;
+}
+
+.couleur {
+    background-color: #e00000;
+}
